@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 # 技术栈
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,docker,mysql,redis,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nodejs,express,nestjs,docker,mysql,redis,nginx)](https://skillicons.dev)
